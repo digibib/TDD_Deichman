@@ -26,18 +26,24 @@ Alle verktøy er åpen kildekode. Vi bruker selvfølgelig linux i alle ledd. Hel
 
 ### Node.js
 
+```
 sudo apt-get update
 sudo apt-get install python-software-properties python g++ make
 sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
 sudo apt-get install nodejs
+```
 
 ### Mocha (testing)
 
+```
 sudo npm install -g mocha
 sudo apt-get install libnotify-bin
+```
 
 ### Sublime Text
 
+```
 sudo add-apt-repository ppa:webupd8team/sublime-text-2
 sudo apt-get install sublime-text
+```

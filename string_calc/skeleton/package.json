@@ -1,0 +1,19 @@
+{
+  "name": "node_string_calc",
+  "version": "0.0.1",
+  "description": "NodeJS string calculator",
+  "main": "string_calc.js",
+  "scripts": {
+    "test": "mocha -R spec -w -G"
+  },
+  "keywords": [
+    "nodejs",
+    "stringcalc"
+  ],
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*"
+  }
+  "author": "Benjamin",
+  "license": "MIT"
+}
