@@ -13,7 +13,7 @@
   "devDependencies": {
     "expect.js": "*",
     "mocha": "*"
-  }
+  },
   "author": "Benjamin",
   "license": "MIT"
 }

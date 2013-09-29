@@ -1,6 +1,6 @@
 # Deichmanske TDD-uke
 
-Ukessprint i Testdrevet utvikling. Deichmanske bibliotek 23.-27.sept 2013
+Ukessprint i Testdrevet utvikling. Deichmanske bibliotek 30.sept-4.okt 2013
 
 ## Mål
 
